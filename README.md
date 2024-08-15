@@ -25,7 +25,6 @@ RansomRave is an innovative encryption tool designed to protect your sensitive d
 
 3. 𝐃𝐞𝐜𝐫𝐲𝐩𝐭 𝐅𝐢𝐥𝐞𝐬: To decrypt, select the encrypted files or folders and enter the correct decryption key.
 
-# RansomRave Project
 
 ## Educational Demonstration: Malware Simulation
 
