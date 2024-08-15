@@ -28,5 +28,11 @@ RansomRave is an innovative encryption tool designed to protect your sensitive d
 # Contact
 𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐫 𝐬𝐮𝐩𝐩𝐨𝐫𝐭, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐮𝐬 𝐚𝐭:
 
-Email: rajshah152004@gmail.com
-LinkedIn: https://www.linkedin.com/in/raj-shah-931439260/
+**Contact**
+
+For more information or support, please reach out to us at:
+
+- **Email**: [rajshah152004@gmail.com](mailto:rajshah152004@gmail.com)
+
+- **LinkedIn**: [Raj Shah](https://www.linkedin.com/in/raj-shah-931439260/)
+
