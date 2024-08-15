@@ -45,3 +45,7 @@ This video demonstrates the ransomware simulation project I developed for educat
 
 - **LinkedIn**: [Raj Shah](https://www.linkedin.com/in/raj-shah-931439260/)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
