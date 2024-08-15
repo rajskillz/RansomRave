@@ -31,11 +31,12 @@ RansomRave is an innovative encryption tool designed to protect your sensitive d
 
 This video demonstrates the ransomware simulation project I developed for educational purposes, showcasing the malware's functionality, including file encryption and decryption processes, and highlighting the importance of implementing strong cybersecurity measures.
 
-<div align="center">
-    <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/999194887?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ransomrave-demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div align="center" style="padding:62.5% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/999194887?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ransomrave-demo"></iframe>
 </div>
 
 **Stay informed and stay safe!**
+
 
 
 
