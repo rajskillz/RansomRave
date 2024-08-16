@@ -36,7 +36,7 @@ This video demonstrates the ransomware simulation project I developed for educat
 
 
 
-# Contact
+## Contact
 𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐨𝐫 𝐬𝐮𝐩𝐩𝐨𝐫𝐭, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐮𝐬 𝐚𝐭:
 
 
