@@ -5,7 +5,6 @@ Dance with danger: RansomRave encrypts and secures
 RansomRave is an innovative encryption tool designed to protect your sensitive data through advanced encryption methods. With a sleek and powerful interface, RansomRave transforms the way you handle data security, making encryption both accessible and robust.
 
 # Features
-## Features
 
 - **Advanced Encryption:** Utilizes AES-256 encryption to safeguard your files with the highest level of security.
 
